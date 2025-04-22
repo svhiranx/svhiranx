@@ -44,6 +44,6 @@ Flutter + Firebase
 ## 📫 Let's Connect!
 
 -  [LinkedIn](https://www.linkedin.com/in/hiran-suresh/)
--  Email: svhiran@example.com
+-  Email: svhiran@gmail.com
 
 Thanks for stopping by! Feel free to check out my pinned projects 👇
